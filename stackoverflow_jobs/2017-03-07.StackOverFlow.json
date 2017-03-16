@@ -1,0 +1,402 @@
+[
+  {
+    "Employer": "Northwestern Mutual",
+    "Job Title": "Senior IT Security Engineer",
+    "Location": "Milwaukee, WI",
+    "Salary": "Not Listed",
+    "Tags": "security   cissp   exchange-server   encryption   email",
+    "Time": "5h ago"
+  },
+  {
+    "Employer": "Stansberry Research",
+    "Job Title": "Data Engineer",
+    "Location": "Baltimore, MD",
+    "Salary": "Not Listed",
+    "Tags": "sql   etl   sql-server",
+    "Time": "< 1h ago"
+  },
+  {
+    "Employer": "Binny's Beverage Depot",
+    "Job Title": "Full Stack Web Developer",
+    "Location": "Niles, IL",
+    "Salary": "$65k - 85k\n",
+    "Tags": "laravel   angularjs   php   javascript   sql",
+    "Time": "< 1h ago"
+  },
+  {
+    "Employer": "Pendo",
+    "Job Title": "Front End Engineer",
+    "Location": "Raleigh, NC",
+    "Salary": "Not Listed",
+    "Tags": "None",
+    "Time": "< 1h ago"
+  },
+  {
+    "Employer": "Virtru",
+    "Job Title": "Senior Java Developer (Gateway)",
+    "Location": "Washington, DC",
+    "Salary": "Equity",
+    "Tags": "None",
+    "Time": "< 1h ago"
+  },
+  {
+    "Employer": "PrimeRevenue",
+    "Job Title": "Sr. Software Engineer- Ruby",
+    "Location": "Atlanta, GA",
+    "Salary": "Not Listed",
+    "Tags": "docker   javascript   ruby-on-rails   ember.js   angularjs",
+    "Time": "1h ago"
+  },
+  {
+    "Employer": "LunarLincoln",
+    "Job Title": "Mobile App Developer",
+    "Location": "Nashville, TN",
+    "Salary": "Not Listed",
+    "Tags": "swift   android   objective-c   ios",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "GS&F",
+    "Job Title": "Senior Interactive Developer",
+    "Location": "Nashville, TN",
+    "Salary": "Not Listed",
+    "Tags": "html5   sass   node.js   javascript   web-standards",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "ProviderTrust",
+    "Job Title": "Java Developers at Nashville's Fastest Growing Software Company!",
+    "Location": "Nashville, TN",
+    "Salary": "Not Listed",
+    "Tags": "c++   java   c#   python   perl",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "Kroll",
+    "Job Title": "Senior Software Engineer",
+    "Location": "Nashville, TN",
+    "Salary": "Not Listed",
+    "Tags": "javascript   angular2   web   asp.net",
+    "Time": "2w ago"
+  },
+  {
+    "Employer": "Blackbaud",
+    "Job Title": "Senior Software Developer - Smart Tuition",
+    "Location": "Woodbridge Township, NJ",
+    "Salary": "Not Listed",
+    "Tags": "None",
+    "Time": "3h ago"
+  },
+  {
+    "Employer": "Northwestern Mutual",
+    "Job Title": "Full Stack Engineer",
+    "Location": "Milwaukee, WI",
+    "Salary": "Not Listed",
+    "Tags": "javascript   java   reactjs   node.js",
+    "Time": "4h ago"
+  },
+  {
+    "Employer": "Scopus IT (On-site Consulting Project @ Google in NYC or San Jose)",
+    "Job Title": "Software Engineer (Full stack with focus on front end) *Onsite with Google*",
+    "Location": "New York, NY",
+    "Salary": "$115k - 160k\n",
+    "Tags": "javascript   css   html   angular2   python",
+    "Time": "3h ago"
+  },
+  {
+    "Employer": "Trilogy Education Services",
+    "Job Title": "Senior Curriculum Engineer",
+    "Location": "New York, NY",
+    "Salary": "$75k - 80k\n",
+    "Tags": "javascript   node.js   mysql   reactjs   mongodb",
+    "Time": "3h ago"
+  },
+  {
+    "Employer": "ThreatConnect, Inc.",
+    "Job Title": "UI/UX JavaScript Ninja, Cool Product Company, Location Flexible--East Coast pref",
+    "Location": "Arlington, VA",
+    "Salary": "Not Listed",
+    "Tags": "sass   node.js   dom   angular   javascript",
+    "Time": "5h ago"
+  },
+  {
+    "Employer": "Acuity Scheduling",
+    "Job Title": "Fun loving PHP Developer (100% remote)",
+    "Location": "New York, NY",
+    "Salary": "$85k - 110k\n",
+    "Tags": "php",
+    "Time": "4h ago"
+  },
+  {
+    "Employer": "Wordfence",
+    "Job Title": "Software Quality Assurance Engineer",
+    "Location": "No office location",
+    "Salary": "$75k - 90k\n",
+    "Tags": "php   qa   linux   sqa   testing",
+    "Time": "22h ago"
+  },
+  {
+    "Employer": "SemanticBits",
+    "Job Title": "DevOps Engineer",
+    "Location": "Herndon, VA",
+    "Salary": "Not Listed",
+    "Tags": "amazon-web-services   jenkins   puppet   vagrant   amazon-cloudformation   sysadmin",
+    "Time": "5h ago"
+  },
+  {
+    "Employer": "Binary Star",
+    "Job Title": "Full Stack Web Developer",
+    "Location": "Exeter, NH",
+    "Salary": "$75k - 85k\n",
+    "Tags": "java   javascript   angularjs   reactjs",
+    "Time": "3h ago"
+  },
+  {
+    "Employer": "TransPerfect Translations, Inc.",
+    "Job Title": "Full Stack .NET Developer",
+    "Location": "New York, NY",
+    "Salary": "$85k - 110k\n",
+    "Tags": ".net   javascript   angularjs   ravendb",
+    "Time": "4h ago"
+  },
+  {
+    "Employer": "Strata Decision Technology",
+    "Job Title": "Senior .NET Developer",
+    "Location": "Chicago, IL",
+    "Salary": "$75k - 120k\n",
+    "Tags": ".net   c#   visual-studio-2012   sql-server   asp.net",
+    "Time": "7h ago"
+  },
+  {
+    "Employer": "Altair Engineering",
+    "Job Title": "QA Developer",
+    "Location": "Austin, TX",
+    "Salary": "Not Listed",
+    "Tags": "java   linux   mysql   eclipse   jira",
+    "Time": "5h ago"
+  },
+  {
+    "Employer": "Easy Metrics, Inc.",
+    "Job Title": "Intermediate Report Developer",
+    "Location": "Issaquah, WA",
+    "Salary": "$80k - 95k\n",
+    "Tags": "javascript   postgresql   jaspersoft-studio",
+    "Time": "2h ago"
+  },
+  {
+    "Employer": "MailPoet",
+    "Job Title": "PHP/JavaScript Engineer",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "reactjs   php   javascript",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Sherpany",
+    "Job Title": "Excellence in Web Application Development (Senior Frontend Engineer)",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "css3   python   django",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "UC Davis",
+    "Job Title": "Lead Technical Analyst",
+    "Location": "Davis, CA",
+    "Salary": "Not Listed",
+    "Tags": "project-management   lifecycle   i",
+    "Time": "4h ago"
+  },
+  {
+    "Employer": "WayBetter",
+    "Job Title": "Senior Director, Product Management",
+    "Location": "New York, NY",
+    "Salary": "Equity",
+    "Tags": "jira   agile   product   consumer",
+    "Time": "6h ago"
+  },
+  {
+    "Employer": "Instructure",
+    "Job Title": "Senior Javascript Software Engineer",
+    "Location": "Pleasant Grove, UT",
+    "Salary": "Not Listed",
+    "Tags": "javascript   reactjs   es6   angularjs   redux",
+    "Time": "4h ago"
+  },
+  {
+    "Employer": "LiveSchool Inc.",
+    "Job Title": "Backend Engineer at Growing Edtech Company in Nashville, TN",
+    "Location": "Nashville, TN",
+    "Salary": "Not Listed",
+    "Tags": "amazon-web-services   aws-lambda   amazon-rds-aurora   node.js   mysql",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "Paytronix Systems",
+    "Job Title": "UI/UX Engineer",
+    "Location": "Newton, MA",
+    "Salary": "$80k - 120k\n",
+    "Tags": "scala   jquery   javascript   css3   html5",
+    "Time": "7h ago"
+  },
+  {
+    "Employer": "Global Technology Solutions, Inc.",
+    "Job Title": "IT Secuity Coordinator- St. Louis, MO.",
+    "Location": "St. Louis, MO",
+    "Salary": "Not Listed",
+    "Tags": "security   project-management   data-analysis   kpi",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Lucas Systems, Inc.",
+    "Job Title": "Software Engineer",
+    "Location": "Wexford, PA",
+    "Salary": "Not Listed",
+    "Tags": "c#   sql-server   .net   android",
+    "Time": "15h ago"
+  },
+  {
+    "Employer": "Complion",
+    "Job Title": "Software Implementation Engineer",
+    "Location": "Cleveland, OH",
+    "Salary": "Equity",
+    "Tags": "javascript   java   c#   dynamics-crm   python",
+    "Time": "18h ago"
+  },
+  {
+    "Employer": "Intuit",
+    "Job Title": "Software Engineering Group Manager",
+    "Location": "",
+    "Salary": "Not Listed",
+    "Tags": "None",
+    "Time": "< 1h ago"
+  },
+  {
+    "Employer": "Crate and Barrel",
+    "Job Title": "Senior Web Developer \u2013 C#/.Net",
+    "Location": "Northbrook, IL",
+    "Salary": "Not Listed",
+    "Tags": "c#   asp.net   mvc   sql-server   jquery",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Crate and Barrel",
+    "Job Title": "Senior Front End Developer",
+    "Location": "Northbrook, IL",
+    "Salary": "Not Listed",
+    "Tags": "html   css   javascript   jquery   twitter-bootstrap",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Crate and Barrel",
+    "Job Title": "Lead Web Developer - C#/.Net",
+    "Location": "Northbrook, IL",
+    "Salary": "Not Listed",
+    "Tags": "c#   asp.net-mvc   sql   nosql",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Mediocre",
+    "Job Title": "Support Engineer",
+    "Location": "Dallas, TX",
+    "Salary": "Not Listed",
+    "Tags": "node.js   mongodb   postgresql   salesforce   pentaho",
+    "Time": "20h ago"
+  },
+  {
+    "Employer": "Mediocre",
+    "Job Title": "DevOps Engineer",
+    "Location": "Dallas, TX",
+    "Salary": "Not Listed",
+    "Tags": "node.js   azure   amazon-web-services   mongodb   postgresql",
+    "Time": "20h ago"
+  },
+  {
+    "Employer": "Mediocre",
+    "Job Title": "Software Development Engineer (Salesforce)",
+    "Location": "Dallas, TX",
+    "Salary": "Equity",
+    "Tags": "salesforce   apex-code   visualforce   soql   pentaho",
+    "Time": "20h ago"
+  },
+  {
+    "Employer": "ThinkCERCA",
+    "Job Title": "Senior Engineer: Ruby on Rails / React in Education Tech",
+    "Location": "Chicago, IL",
+    "Salary": "Not Listed",
+    "Tags": "ruby-on-rails   postgresql   reactjs",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Booz Allen Hamilton",
+    "Job Title": "React.js Developer, Senior",
+    "Location": "Herndon, VA",
+    "Salary": "Not Listed",
+    "Tags": "reactjs   javascript   java   css   lamp",
+    "Time": "23h ago"
+  },
+  {
+    "Employer": "Resin.io",
+    "Job Title": "Technical Content Lead",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "None",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Resin.io",
+    "Job Title": "DevOps Engineer",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "docker   continuous-integration   jenkins",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "VIDA Diagnostics",
+    "Job Title": "Sr. Software Engineer ( Workstation )",
+    "Location": "Edina, MN",
+    "Salary": "Not Listed",
+    "Tags": "c#   .net   sql   wcf   wpf",
+    "Time": "22h ago"
+  },
+  {
+    "Employer": "Barbaricum",
+    "Job Title": "Software Engineer",
+    "Location": "Washington, DC",
+    "Salary": "Not Listed",
+    "Tags": "java   groovy   linux   oracle   devops",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Exigo Office, Inc.",
+    "Job Title": "C#/SQL Engineer",
+    "Location": "Dallas, TX",
+    "Salary": "Not Listed",
+    "Tags": "c#   .net   sql-server",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Jefferson County Public Schools",
+    "Job Title": "Database Administrator",
+    "Location": "Louisville, KY",
+    "Salary": "$89k - 124k\n",
+    "Tags": "database   dba   sql-server   sql   ssis   sysadmin",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Jefferson County Public Schools",
+    "Job Title": "Software Developer II",
+    "Location": "Louisville, KY",
+    "Salary": "$58k - 87k\n",
+    "Tags": "asp.net   c#   web-services   sql   entity-framework",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Service Fusion",
+    "Job Title": "Vue.js/Javascript/Python Developer - Build NEW Apps with an Established Startup!",
+    "Location": "Colleyville, TX",
+    "Salary": "$60k - 100k\n",
+    "Tags": "python   javascript   vue.js   postgresql",
+    "Time": "yesterday"
+  }
+]
