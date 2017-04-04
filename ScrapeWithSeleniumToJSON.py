@@ -16,7 +16,7 @@ parse = True
 i = 0
 a = 0
 # while parse == True:
-while i < 2:
+while i < 5:
     page = browser.get(url)
     soup = BeautifulSoup(browser.page_source, 'lxml')
 

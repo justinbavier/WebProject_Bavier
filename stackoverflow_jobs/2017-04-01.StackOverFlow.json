@@ -1,0 +1,1002 @@
+[
+  {
+    "Employer": "Rewards Network",
+    "Job Title": "Senior Software Engineer",
+    "Location": "Chicago, IL",
+    "Salary": "Not Listed",
+    "Tags": "scala   java   c#   git   oop",
+    "Time": "11h ago"
+  },
+  {
+    "Employer": "Synopsys",
+    "Job Title": "Managing Consultant - 12615BR",
+    "Location": "Nashville, TN",
+    "Salary": "Not Listed",
+    "Tags": "security   sdlc",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "The Iron Yard",
+    "Job Title": "Instructor- Javascript (Fulltime)",
+    "Location": "Nashville, TN",
+    "Salary": "Not Listed",
+    "Tags": "reactjs   javascript   node.js",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "LunarLincoln",
+    "Job Title": "Mobile App Developer",
+    "Location": "Nashville, TN",
+    "Salary": "Not Listed",
+    "Tags": "swift   android   objective-c   ios",
+    "Time": "2w ago"
+  },
+  {
+    "Employer": "GS&F",
+    "Job Title": "Senior Interactive Developer",
+    "Location": "Nashville, TN",
+    "Salary": "Not Listed",
+    "Tags": "html5   sass   node.js   javascript   web-standards",
+    "Time": "2w ago"
+  },
+  {
+    "Employer": "LiveSchool Inc.",
+    "Job Title": "Backend Engineer at Growing Edtech Company in Nashville, TN",
+    "Location": "Nashville, TN",
+    "Salary": "Not Listed",
+    "Tags": "amazon-web-services   aws-lambda   amazon-rds-aurora   node.js   mysql",
+    "Time": "2w ago"
+  },
+  {
+    "Employer": "Kroll",
+    "Job Title": "Senior Software Engineer",
+    "Location": "Nashville, TN",
+    "Salary": "Not Listed",
+    "Tags": "javascript   angular2   sql-server   asp.net   c#",
+    "Time": "5d ago"
+  },
+  {
+    "Employer": "Keona Health",
+    "Job Title": "Senior Software Engineer",
+    "Location": "No office location",
+    "Salary": "$95k - 120k\n",
+    "Tags": "reactjs   javascript   html   sql",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Kodify.io",
+    "Job Title": "Frontend Developer (React)",
+    "Location": "No office location",
+    "Salary": "\u20ac40k - 60k\n",
+    "Tags": "reactjs   javascript   css   node.js   html",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "The Iron Yard",
+    "Job Title": "JavaScript Instructor- Full time/Temporary",
+    "Location": "Atlanta, GA",
+    "Salary": "Not Listed",
+    "Tags": "reactjs   html   javascript   css   jquery",
+    "Time": "14h ago"
+  },
+  {
+    "Employer": "Kopis",
+    "Job Title": "Senior Application Developer",
+    "Location": "Greenville, SC",
+    "Salary": "$70k - 90k\n",
+    "Tags": "c#   html   javascript   css   visual-studio",
+    "Time": "13h ago"
+  },
+  {
+    "Employer": "Toptal",
+    "Job Title": "Ruby on Rails Developer",
+    "Location": "No office location",
+    "Salary": "$48k - 96k\n",
+    "Tags": "ruby-on-rails   postgresql   elasticsearch   reactjs   redis",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Toptal",
+    "Job Title": "Data Scientist",
+    "Location": "No office location",
+    "Salary": "$48k - 96k\n",
+    "Tags": "r   machine-learning   python   scala   google-app-engine",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Brave Software",
+    "Job Title": "QA Engineer",
+    "Location": "No office location",
+    "Salary": "Equity",
+    "Tags": "android   testing   java   senior",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "LoopMe",
+    "Job Title": "Senior Data Scientist",
+    "Location": "London, UK",
+    "Salary": "\u00a365k - 110k\n",
+    "Tags": "r   machine-learning   python",
+    "Time": "15h ago"
+  },
+  {
+    "Employer": "YouGov",
+    "Job Title": "Software Developer",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "python-2.7   python-3.x   mongodb   postgresql   javascript",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "Bonial International Group",
+    "Job Title": "Backend Developer - API team (m/f)",
+    "Location": "Berlin, Germany",
+    "Salary": "Not Listed",
+    "Tags": "hibernate   spring   java   amazon-web-services   postgresql",
+    "Time": "15h ago"
+  },
+  {
+    "Employer": "Mersive Technologies, Inc.",
+    "Job Title": "Front End Software Engineer",
+    "Location": "Denver, CO",
+    "Salary": "Equity",
+    "Tags": "c++   qml   android   ios   html5",
+    "Time": "2h ago"
+  },
+  {
+    "Employer": "Reconfigure.io",
+    "Job Title": "Compiler Engineer",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "haskell   go   compiler-construction   fpga",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "Statement Campus",
+    "Job Title": "Software Engineer, Android",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "android   mobile   java",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Statement Campus",
+    "Job Title": "Software Engineer, Web (Javascript)",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "javascript   node.js   angularjs",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Statement Campus",
+    "Job Title": "Backend Engineer, Golang",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "java   python   c++   go",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Railroad19, Inc",
+    "Job Title": "Senior Front End Developer Angular 2",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "javascript   frontend   angular2   typescript   angularjs",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Statement Campus",
+    "Job Title": "Backend Engineer, Java",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "java   python   c++",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Metova, Inc.",
+    "Job Title": "C++ Developer",
+    "Location": "Franklin, TN",
+    "Salary": "Not Listed",
+    "Tags": "c++   c++11   templates   lambda   memory-management",
+    "Time": "2w ago"
+  },
+  {
+    "Employer": "idealo internet GmbH",
+    "Job Title": "Senior Software Developer (Java Backend) \u2013 High Performance Import (m/w)",
+    "Location": "Berlin, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "java   spring   rest   sql",
+    "Time": "22h ago"
+  },
+  {
+    "Employer": "Metova, Inc.",
+    "Job Title": "Experienced Android Developer",
+    "Location": "Franklin, TN",
+    "Salary": "Not Listed",
+    "Tags": "android   java   material-design   android-fragments   android-activity",
+    "Time": "2w ago"
+  },
+  {
+    "Employer": "RateIt",
+    "Job Title": "Full Stack Web Developer",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "c#   sql-server   angularjs   backbone.js   .net",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "idealo internet GmbH",
+    "Job Title": "Head of Technology - Product Discovery (m/w)",
+    "Location": "Berlin, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "java   agile",
+    "Time": "22h ago"
+  },
+  {
+    "Employer": "movingimage",
+    "Job Title": "Techlead Java (m/f)",
+    "Location": "Berlin, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "azure   cloud   architecture   video   aws-lambda",
+    "Time": "23h ago"
+  },
+  {
+    "Employer": "movingimage",
+    "Job Title": "PHP Fullstack Developer (m/f)",
+    "Location": "Berlin, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "php   jenkins   symfony-2.1   mysql   mongodb",
+    "Time": "23h ago"
+  },
+  {
+    "Employer": "movingimage",
+    "Job Title": "(Senior) Frontend Developer (m/f)",
+    "Location": "Berlin, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "angularjs   javascript   typescript   html5   twitter-bootstrap",
+    "Time": "23h ago"
+  },
+  {
+    "Employer": "movingimage",
+    "Job Title": "Senior PHP Developer (m/f)",
+    "Location": "Berlin, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "php   mysql   nosql   mongodb   rest",
+    "Time": "23h ago"
+  },
+  {
+    "Employer": "movingimage",
+    "Job Title": "DevOps Engineer (m/f)",
+    "Location": "Berlin, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "docker   cloud   php   jenkins   performance",
+    "Time": "23h ago"
+  },
+  {
+    "Employer": "GitLab",
+    "Job Title": "Security Specialist Developer",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "None",
+    "Time": "5d ago"
+  },
+  {
+    "Employer": "Clevertech",
+    "Job Title": "Full Stack JavaScript Architect",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "javascript   architecture   python   c++   clojure",
+    "Time": "5d ago"
+  },
+  {
+    "Employer": "Clevertech",
+    "Job Title": "Senior React Developer",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "reactjs   javascript",
+    "Time": "5d ago"
+  },
+  {
+    "Employer": "Deloitte",
+    "Job Title": "SAP FICO, S4/HANA, Simple Finance - Consultant (Finance Capability)",
+    "Location": "Atlanta, GA",
+    "Salary": "Not Listed",
+    "Tags": "None",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Trilogy Education Services",
+    "Job Title": "Senior Software Developer",
+    "Location": "New York, NY",
+    "Salary": "$100k - 110k\n",
+    "Tags": "node.js   web-services   javascript",
+    "Time": "6h ago"
+  },
+  {
+    "Employer": "PestRoutes LLC",
+    "Job Title": "Senior Developer",
+    "Location": "McKinney, TX",
+    "Salary": "$100k - 140k\n",
+    "Tags": "sql   .net   php   web-applications",
+    "Time": "10h ago"
+  },
+  {
+    "Employer": "BuyerQuest",
+    "Job Title": "Magento Developer",
+    "Location": "Berea, OH",
+    "Salary": "Not Listed",
+    "Tags": "php   magento   jquery   zend-framework   javascript",
+    "Time": "15h ago"
+  },
+  {
+    "Employer": "REDCOM Laboratories, Inc.",
+    "Job Title": "Senior Staff Software Engineer \u2013 Client Applications",
+    "Location": "Victor, NY",
+    "Salary": "Not Listed",
+    "Tags": "ios   android   swift",
+    "Time": "9h ago"
+  },
+  {
+    "Employer": "Carnegie Mellon University",
+    "Job Title": "Lead Developer - Alice Project, Entertainment Technology Center (ETC)",
+    "Location": "Pittsburgh, PA",
+    "Salary": "Not Listed",
+    "Tags": "java   alice",
+    "Time": "16h ago"
+  },
+  {
+    "Employer": "BROWZZIN Pte. Ltd.",
+    "Job Title": "Full Stack Developer with strong front-end experience",
+    "Location": "Singapore",
+    "Salary": "$30k - 60k\n",
+    "Tags": "javascript   reactjs   angularjs   python   php",
+    "Time": "23h ago"
+  },
+  {
+    "Employer": "Deloitte",
+    "Job Title": "Application Modernization - Senior Consultant",
+    "Location": "Atlanta, GA",
+    "Salary": "Not Listed",
+    "Tags": ".net   amazon-web-services   cloud",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Synopsys",
+    "Job Title": "Associate Consultant, II - 12527BR",
+    "Location": "Bloomington, IN",
+    "Salary": "Not Listed",
+    "Tags": "project-management   sql   ruby   c   c++",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Spok",
+    "Job Title": "DevOps Engineer (17-113)",
+    "Location": "Eden Prairie, MN",
+    "Salary": "Not Listed",
+    "Tags": "puppet   ruby   git   jenkins   ios",
+    "Time": "10h ago"
+  },
+  {
+    "Employer": "Skuid",
+    "Job Title": "QA Automation Engineer",
+    "Location": "Chattanooga, TN",
+    "Salary": "Not Listed",
+    "Tags": "sql   nosql   automated-tests   qa   selenium",
+    "Time": "1w ago"
+  },
+  {
+    "Employer": "Masabi",
+    "Job Title": "DevOps Engineer - Help us Deliver New Features to commuters around the world",
+    "Location": "London, UK",
+    "Salary": "Not Listed",
+    "Tags": "amazon-web-services   puppet   docker   linux",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Atlassian",
+    "Job Title": "Development Team Lead - Javascript / UI Design",
+    "Location": "Sydney, Australia",
+    "Salary": "Not Listed",
+    "Tags": "html   javascript   design   css",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Springer Science + Business Media Deutschland GmbH",
+    "Job Title": "Senior Frontend Developer - Angular2 (m/f)",
+    "Location": "Berlin, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "tdd   angular2   html5   javascript   css3",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Staff.com",
+    "Job Title": "MacOS developer/consultant (part-time 100% remote)",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "objective-c   qt   applescript",
+    "Time": "1w ago"
+  },
+  {
+    "Employer": "Production Systems",
+    "Job Title": "SQL/Access Support Specialist",
+    "Location": "Midland, TX",
+    "Salary": "Not Listed",
+    "Tags": "sql-server   ms-access   access-vba   vba   asp.net",
+    "Time": "7h ago"
+  },
+  {
+    "Employer": "InFlight Corporation",
+    "Job Title": "Front End Engineer (Remote - North America)",
+    "Location": "No office location",
+    "Salary": "$60k - 85k\n",
+    "Tags": "backbone.js   javascript   user-interface",
+    "Time": "1w ago"
+  },
+  {
+    "Employer": "Contiamo",
+    "Job Title": "Senior Java/Scala Developer (Data Science Platform)",
+    "Location": "Berlin, Germany",
+    "Salary": "\u20ac60k - 85k\n",
+    "Tags": "java   scala   apache   hadoop",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Averity",
+    "Job Title": "Hands On Software Engineer Manager For Video Technology Platform",
+    "Location": "New York, NY",
+    "Salary": "$160k - 185k\n",
+    "Tags": "python   mysql   amazon-web-services   docker",
+    "Time": "10h ago"
+  },
+  {
+    "Employer": "Springer Science + Business Media Deutschland GmbH",
+    "Job Title": "Senior Software Engineer - Microservice Architecture - (m/f)",
+    "Location": "Berlin, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "java   cloud   ruby   microservices   python",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "The Palmer Group",
+    "Job Title": "Senior React/Full Stack Software Engineer",
+    "Location": "New York, NY",
+    "Salary": "Not Listed",
+    "Tags": "reactjs   node.js   javascript   docker",
+    "Time": "10h ago"
+  },
+  {
+    "Employer": "AudiologyDesign",
+    "Job Title": "Intermediate/Senior PHP Platform Developer",
+    "Location": "No office location",
+    "Salary": "$70k - 80k\n",
+    "Tags": "php   mysql   node.js   nginx   cakephp",
+    "Time": "1w ago"
+  },
+  {
+    "Employer": "The Proven Method Inc.",
+    "Job Title": "iOS Developer",
+    "Location": "Atlanta, GA",
+    "Salary": "$90k - 110k\n",
+    "Tags": "ios   cocoa   objective-c   swift   xcode",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Sonatype",
+    "Job Title": "Senior Data Engineer",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "hadoop   etl   mapreduce   elasticsearch   software",
+    "Time": "1w ago"
+  },
+  {
+    "Employer": "Facebook",
+    "Job Title": "Software Engineer, Product (Full Stack)",
+    "Location": "London, UK",
+    "Salary": "Not Listed",
+    "Tags": "php   javascript   html   xhtml   css",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "Facebook",
+    "Job Title": "Software Engineer, Infrastructure",
+    "Location": "London, UK",
+    "Salary": "Not Listed",
+    "Tags": "c++   c   php   java   c#",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "Facebook",
+    "Job Title": "Software Engineer, iOS",
+    "Location": "London, UK",
+    "Salary": "Not Listed",
+    "Tags": "objective-c   c++   cocoa",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "Facebook",
+    "Job Title": "Manager, Software Engineering",
+    "Location": "London, UK",
+    "Salary": "Not Listed",
+    "Tags": "java   c++   javascript   php",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "CNM Marketing Inc.",
+    "Job Title": "Drupal remote lead UI/UX Designer for apparel ecommerce site",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "drupal   twitter-bootstrap   twig   jquery",
+    "Time": "2w ago"
+  },
+  {
+    "Employer": "Allied Health Media",
+    "Job Title": "Junior | Intermediate PHP Developer (PHP | CakePHP | HTML5 | JS)",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "php   cakephp   html5   javascript",
+    "Time": "2w ago"
+  },
+  {
+    "Employer": "Rakuten",
+    "Job Title": "Senior DevOps Engineer",
+    "Location": "Setagaya-ku, Japan",
+    "Salary": "Not Listed",
+    "Tags": "linux   devops   sysadmin   docker   jenkins",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Rakuten",
+    "Job Title": "SDN Engineer",
+    "Location": "Setagaya-ku, Japan",
+    "Salary": "Not Listed",
+    "Tags": "sdn   sysadmin",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Time Doctor",
+    "Job Title": "PHP Developer 100% remote",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "php",
+    "Time": "2w ago"
+  },
+  {
+    "Employer": "Zalando SE",
+    "Job Title": "Senior Database Engineer (PostgreSQL / Cassandra)",
+    "Location": "Berlin, Germany",
+    "Salary": "Not Listed",
+    "Tags": "postgresql   cassandra   python   go   sysadmin",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "BoomTown",
+    "Job Title": "Scala Developer (Remote)",
+    "Location": "Atlanta, GA",
+    "Salary": "Not Listed",
+    "Tags": "c#   clojure   .net   varnish   scala",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Deloitte",
+    "Job Title": "C&I Workspace and Collaboration \u2013 Senior Consultant",
+    "Location": "Chicago, IL",
+    "Salary": "Not Listed",
+    "Tags": "windows   cloud",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Philips",
+    "Job Title": "Embedded Software Designer",
+    "Location": "Eindhoven, Netherlands",
+    "Salary": "Not Listed",
+    "Tags": "c++   c   wifi   embedded",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "Averity",
+    "Job Title": "Quantitative Software Engineer For Multi-Billion Dollar Hedge Fund",
+    "Location": "New York, NY",
+    "Salary": "$150k - 200k\n",
+    "Tags": "python   pyspark   apache-spark   machine-learning",
+    "Time": "16h ago"
+  },
+  {
+    "Employer": "FlixBus",
+    "Job Title": "FULL STACK PHP DEVELOPER M/F",
+    "Location": "M\u00fcnchen, Germany",
+    "Salary": "Not Listed",
+    "Tags": "symfony2   php   javascript   angularjs",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "InventoryLab Inc.",
+    "Job Title": ".NET Software Engineer",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "c#   amazon-web-services   java-script   mobile   web-services",
+    "Time": "2w ago"
+  },
+  {
+    "Employer": "Booz Allen Hamilton",
+    "Job Title": "C++ Developer, Senior",
+    "Location": "Huntsville, AL",
+    "Salary": "Not Listed",
+    "Tags": "c++   automated-tests   ada   interop",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "Workstate",
+    "Job Title": "Full Stack .NET Dev -- Web and ETL",
+    "Location": "Columbus, OH",
+    "Salary": "$75k - 85k\n",
+    "Tags": "sql-server   c#   .net   asp.net-mvc   amazon-web-services",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "SSCS, Inc.",
+    "Job Title": "Senior Software Engineer",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "c#   rest   nosql   domain-driven-design",
+    "Time": "2w ago"
+  },
+  {
+    "Employer": "BlackRock",
+    "Job Title": "Java Software Engineer (Scala / Python / NOSQL / JQuery / Hibernate)",
+    "Location": "New York, NY",
+    "Salary": "Not Listed",
+    "Tags": "java   javascript   spring   nosql   java-ee",
+    "Time": "18h ago"
+  },
+  {
+    "Employer": "PetroCloud",
+    "Job Title": "Software Developer - MEANstack",
+    "Location": "Irving, TX",
+    "Salary": "Not Listed",
+    "Tags": "javascript   angularjs   node.js   mongodb",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Booz Allen Hamilton",
+    "Job Title": "Software Engineer",
+    "Location": "Huntsville, AL",
+    "Salary": "Not Listed",
+    "Tags": "java   javascript   angularjs   perl   python",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "Comcast",
+    "Job Title": "Principal Data Integration Architect",
+    "Location": "West Chester, PA",
+    "Salary": "Not Listed",
+    "Tags": "hadoop   etl   sql",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Veterans United Home Loans",
+    "Job Title": "C# Application Developer",
+    "Location": "Columbia, MO",
+    "Salary": "Not Listed",
+    "Tags": "c#   .net   javascript   sql   model-view-controller",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "Comcast",
+    "Job Title": "Principal Engineer, Service Reliability",
+    "Location": "Philadelphia, PA",
+    "Salary": "Not Listed",
+    "Tags": "web-services   design",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Comcast",
+    "Job Title": "Engineer 4 \u2013 Software Development & Engineering",
+    "Location": "Philadelphia, PA",
+    "Salary": "Not Listed",
+    "Tags": "hadoop   ruby-on-rails   web-services",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "Xpenditure",
+    "Job Title": "Jobe Cafe | Mechelen Belgium",
+    "Location": "Mechelen, Belgium",
+    "Salary": "Not Listed",
+    "Tags": "javascript   angular2   php   html   c#",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Mimir",
+    "Job Title": "Full Stack Engineer",
+    "Location": "Indianapolis, IN",
+    "Salary": "Not Listed",
+    "Tags": "reactjs   ruby-on-rails   javascript",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "GitLab",
+    "Job Title": "Chef and Ruby Build Engineer",
+    "Location": "No office location",
+    "Salary": "Equity",
+    "Tags": "chef   ruby   ruby-on-rails   git   gitlab-omnibus",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "EBSCO Information Services",
+    "Job Title": "Technical Business Analyst",
+    "Location": "Ipswich, MA",
+    "Salary": "Not Listed",
+    "Tags": "sql",
+    "Time": "15h ago"
+  },
+  {
+    "Employer": "GoEuro Travel GmbH",
+    "Job Title": "Senior BI Analyst",
+    "Location": "Berlin, Germany",
+    "Salary": "Not Listed",
+    "Tags": "sql   amazon-redshift   tableau   analytics",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "GNS Healthcare",
+    "Job Title": "Data Engineer/Data Scientist",
+    "Location": "Cambridge, MA",
+    "Salary": "Not Listed",
+    "Tags": "hadoop   apache-spark   relational-database   python",
+    "Time": "15h ago"
+  },
+  {
+    "Employer": "Zattoo",
+    "Job Title": "Site Reliability Engineer",
+    "Location": "Berlin, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "web-services   python   puppet   nginx   multicast",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Elastic",
+    "Job Title": "Software Engineer- Data Ingestion Infrastructure",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "java   jruby   apache-kafka   streaming   ruby",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "Clevertech",
+    "Job Title": "Fullstack Javascript Architect",
+    "Location": "Chicago, IL",
+    "Salary": "Not Listed",
+    "Tags": "javascript   react   node.js   angularjs",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "eHealth & Information Systems Africa",
+    "Job Title": "Systems Architect",
+    "Location": "Monrovia, Liberia",
+    "Salary": "$102k - 120k\n",
+    "Tags": "etl   sql",
+    "Time": "4d ago"
+  },
+  {
+    "Employer": "Vectr Labs Inc.",
+    "Job Title": "Engineering Manager (JavaScript, SVG + Graphics)",
+    "Location": "Taipei, Taiwan",
+    "Salary": "$50k - 60k\n",
+    "Tags": "javascript   svg   graphics   mongo",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "Belvedere Trading",
+    "Job Title": "Trading System Support Analyst (2nd Shift)",
+    "Location": "Chicago, IL",
+    "Salary": "Not Listed",
+    "Tags": "sql   powershell   python   networking   ticket-system",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "Smart Metals Recycling",
+    "Job Title": "Sr. Full Stack Developer",
+    "Location": "Charlotte, NC",
+    "Salary": "$130k - 160k\n",
+    "Tags": "ruby-on-rails   reactjs   angularjs   node.js   django",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "e-conomic/Visma",
+    "Job Title": "Lead Mobile Developer",
+    "Location": "Copenhagen, Denmark",
+    "Salary": "Not Listed",
+    "Tags": "ios   objective-c   swift   c#",
+    "Time": "6d ago"
+  },
+  {
+    "Employer": "Scuf  Gaming International, LLC",
+    "Job Title": "PHP Developer - Gaming Technology Company",
+    "Location": "Suwanee, GA",
+    "Salary": "Not Listed",
+    "Tags": "javascript   php   css   magento2",
+    "Time": "1w ago"
+  },
+  {
+    "Employer": "NetBeez",
+    "Job Title": "Mid to Sr Full-Stack Developer who loves distributed systems",
+    "Location": "Pittsburgh, PA",
+    "Salary": "$80k - 101k\n",
+    "Tags": "sql   javascript   ruby-on-rails   node.js   socket.io",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Aol",
+    "Job Title": "Big Data Engineer",
+    "Location": "London, UK",
+    "Salary": "\u00a350k - 80k\n",
+    "Tags": "java   hadoop   scala   hive   apache-spark",
+    "Time": "5d ago"
+  },
+  {
+    "Employer": "Smaato Inc.",
+    "Job Title": "Product Manager f/m",
+    "Location": "Hamburg, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "real-time   bigdata   product-management   backlog   sysadmin",
+    "Time": "5d ago"
+  },
+  {
+    "Employer": "CentralReach",
+    "Job Title": "Xamarin Developer",
+    "Location": "No office location",
+    "Salary": "$100k - 225k\n",
+    "Tags": "xamarin   c#   ios   android   sql",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "Gannett A USA Today Network",
+    "Job Title": "Remote DevOps Engineer with USA Today",
+    "Location": "McLean, VA",
+    "Salary": "Not Listed",
+    "Tags": "devops   chef   puppet   automation   aws",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "GitLab",
+    "Job Title": "Sr. Product Marketing Manager",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "None",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "InnoGames GmbH",
+    "Job Title": "Site Reliability Engineer",
+    "Location": "Hamburg, Deutschland",
+    "Salary": "Not Listed",
+    "Tags": "linux   django   debian",
+    "Time": "5d ago"
+  },
+  {
+    "Employer": "Applause",
+    "Job Title": "Penetration tester / Ethical hacker (Freelance - Position, Working from Home)",
+    "Location": "No office location",
+    "Salary": "\u20ac1 - 50k\n",
+    "Tags": "burpsuite   kali-linux   nmap   owasp",
+    "Time": "3w ago"
+  },
+  {
+    "Employer": "Philips",
+    "Job Title": "Senior Java Developer-Population Health",
+    "Location": "Alpharetta, GA",
+    "Salary": "Not Listed",
+    "Tags": "java   angularjs   rest   web-applications   hadoop",
+    "Time": "1w ago"
+  },
+  {
+    "Employer": "ProfitBricks GmbH",
+    "Job Title": "(Senior) Linux System Administrator (m/w)",
+    "Location": "Berlin, Germany",
+    "Salary": "Not Listed",
+    "Tags": "linux   postgresql   kvm   bash   sysadmin",
+    "Time": "5d ago"
+  },
+  {
+    "Employer": "Deloitte",
+    "Job Title": "Full Stack Software Engineer",
+    "Location": "Raleigh, NC",
+    "Salary": "Not Listed",
+    "Tags": "python   reactjs   javascript   apache-kafka   nosql",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Sportradar AG",
+    "Job Title": "Senior Scala Developer at Sportradar!!",
+    "Location": "Wien, Austria",
+    "Salary": "Not Listed",
+    "Tags": "oop   scala   java   rest   jquery",
+    "Time": "5d ago"
+  },
+  {
+    "Employer": "Red Nova Labs",
+    "Job Title": "Senior Ruby Software Developer",
+    "Location": "Westwood Hills, KS",
+    "Salary": "Not Listed",
+    "Tags": "ruby   ruby-on-rails   node.js   mysql   postgresql",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Deloitte",
+    "Job Title": "Cloud DevOps Engineer",
+    "Location": "Orlando, FL",
+    "Salary": "Not Listed",
+    "Tags": "chef   puppet   ansible",
+    "Time": "2d ago"
+  },
+  {
+    "Employer": "Wordfence",
+    "Job Title": "Software Quality Assurance Engineer",
+    "Location": "No office location",
+    "Salary": "$75k - 90k\n",
+    "Tags": "php   qa   linux   sqa   testing",
+    "Time": "4w ago"
+  },
+  {
+    "Employer": "MailPoet",
+    "Job Title": "Not just another PHP/JavaScript Engineer!",
+    "Location": "No office location",
+    "Salary": "\u20ac42k - 60k\n",
+    "Tags": "reactjs   php   javascript",
+    "Time": "4w ago"
+  },
+  {
+    "Employer": "Portland Community College",
+    "Job Title": "Division Dean - Business & Computing, Sylvania Campus",
+    "Location": "Portland, OR",
+    "Salary": "Not Listed",
+    "Tags": "None",
+    "Time": "7h ago"
+  },
+  {
+    "Employer": "Sherpany",
+    "Job Title": "Excellence in Web Application Development (Senior Frontend Engineer)",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "css3   python   django",
+    "Time": "4w ago"
+  },
+  {
+    "Employer": "Akuna Capital",
+    "Job Title": "Python Developer-  Trading Infrastructure",
+    "Location": "Chicago, IL",
+    "Salary": "Not Listed",
+    "Tags": "python-3.x   python   build   algorithmic-trading   performance",
+    "Time": "3d ago"
+  },
+  {
+    "Employer": "Forcefield Online",
+    "Job Title": "Quality Assurance and Technical Support Specialist",
+    "Location": "Los Angeles, CA",
+    "Salary": "Not Listed",
+    "Tags": "qa",
+    "Time": "8h ago"
+  },
+  {
+    "Employer": "ActiveProspect",
+    "Job Title": "User Experience Designer",
+    "Location": "Austin, TX",
+    "Salary": "Equity",
+    "Tags": "css   html   html5   user-interface   adobe",
+    "Time": "yesterday"
+  },
+  {
+    "Employer": "e-conomic/Visma",
+    "Job Title": "Engineer to join our Platform Team",
+    "Location": "Copenhagen, Denmark",
+    "Salary": "Not Listed",
+    "Tags": "c#   infrastructure   mysql",
+    "Time": "6d ago"
+  },
+  {
+    "Employer": "Resin.io",
+    "Job Title": "Technical Content Lead",
+    "Location": "No office location",
+    "Salary": "Not Listed",
+    "Tags": "None",
+    "Time": "4w ago"
+  }
+]
